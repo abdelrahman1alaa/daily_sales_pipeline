@@ -1,4 +1,4 @@
-# README - Daily Sales Pipeline Project
+# Daily Sales Pipeline Project
 
 ## Overview
 
