@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-2.x-red)
-![CI](https://github.com/USERNAME/REPO_NAME/actions/workflows/ci.yml/badge.svg)
+![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED?logo=docker&logoColor=white)
 
 ---
 
