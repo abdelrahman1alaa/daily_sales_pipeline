@@ -43,7 +43,7 @@ with DAG(
     schedule="@daily",
     start_date=datetime(2024, 1, 1),
     catchup=False,
-    description="End-to-End Sales Pipeline fixed for Astro",
+    description="End-to-End Sales Pipeline",
     tags=["Sales"]
 ) as dag:
 
