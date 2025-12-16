@@ -7,8 +7,11 @@
 ---
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-2.x-red)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-2.x-red)
 ![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED?logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Structured%20Query%20Language-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
