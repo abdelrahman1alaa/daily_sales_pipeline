@@ -6,6 +6,13 @@
 
 ---
 
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-2.x-red)
+![CI](https://github.com/USERNAME/REPO_NAME/actions/workflows/ci.yml/badge.svg)
+
+---
+
 ## Tools & Technologies
 
 * **Apache Airflow**: For orchestration, task scheduling, and execution.
@@ -82,13 +89,6 @@ The `daily_sales` table should contain daily revenue data:
 * PostgreSQL integration and SQL querying.
 * Data transformation using Python and Pandas.
 * Building a fully functional end-to-end data pipeline.
-
----
-
-## GitHub Best Practices
-
-* Add **badges** to the README (Python version, License).
-* Use **GitHub Actions** for testing or code formatting.
 
 ---
 
